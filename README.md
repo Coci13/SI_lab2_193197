@@ -15,7 +15,7 @@ Control Flow Graph
 
 Според овој начин на тестирање треба да се поминат сите ребра барем по еднаш
 
-![image](https://user-images.githubusercontent.com/63055314/120117800-43fbed80-c18f-11eb-9dc7-4dd5781a628e.png)
+![image](https://user-images.githubusercontent.com/63055314/120242834-2ea5c280-c266-11eb-8733-6824fb42f48d.png)
 
 За Multiple Condition, проверката, односно тестирањето е напишано во void multipleConditionsTest(), каде се проверуваат сите услови кои имаат повеќе од една проверка.
 
